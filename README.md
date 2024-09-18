@@ -1,7 +1,7 @@
 
 💫 About Me:
 
-Hey! 🚀 I’m Samira, a fledgling coder currently embarking on an epic journey at Holberton School in the heart of Lille, France. With a thirst for knowledge and a passion for creation, I’ve set my sights on conquering the web development world. Imagine, in just two years, I’ll be sailing the digital seas with a treasure chest full of coding skills, ready to dive into an internship where I can bring my own wave of innovation.
+Hey! 🚀 I’m Sam, a fledgling coder currently embarking on an epic journey at Holberton School in the heart of Lille, France. With a thirst for knowledge and a passion for creation, I’ve set my sights on conquering the web development world. Imagine, in just two years, I’ll be sailing the digital seas with a treasure chest full of coding skills, ready to dive into an internship where I can bring my own wave of innovation.
 
 What’s in my coding arsenal, you ask? 🎨 I’m weaving through the mysteries of front-end design, unlocking the secrets of responsive layouts, and mapping out the architectures that hold the web together. My quest has led me to the lands of C language, Python, and the enchanting realms of bash scripting.
 
